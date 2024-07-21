@@ -1,0 +1,72 @@
+# Ignore all .log files
+*.log
+
+# Ignore all files in the build/ directory
+build/
+
+# Ignore .env file
+.env
+
+# Ignore node_modules/ directory (for Node.js projects)
+node_modules/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+.metadata
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Maven and Gradle directories
+target/
+build/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Ignore NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore environment variable files
+.env
+
+# Ignore database files
+*.db
+
+# Ignore generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore local environment files
+*.local
+
+# Ignore coverage and test results
+coverage/
+test-results/
