@@ -31,31 +31,7 @@ public class CharCountAppend {
 		sb.append(ch[i-1]).append(count);
 		
 		System.out.println(sb.toString().equals(output));
-		
-		
-		//1.spring data jpa
-		 		
-		
-		
-		//spring.datasournce.url=
-		//spring.
-		
-		//writer thread i+i;
-		//10
-		
-		//
-		
-		
-		//@configuraion
-		
-		//prefix
-		
-		//@bean 
-		
-		
-		
-		
-		
+			
 		
 	}
 }
