@@ -1,4 +1,4 @@
-package com.array.question.lc;
+package com.array.question.hashingAndPs;
 
 import java.util.Arrays;
 import java.util.HashMap;

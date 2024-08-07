@@ -7,10 +7,11 @@ import java.util.List;
 public class FindTargetIndicesAfterSortingArray {
 
 	public static void main(String[] args) {
-
+		
 	}
+	
 
-	public List<Integer> targetIndices(int[] nums, int target) {
+	public static List<Integer> targetIndices(int[] nums, int target) {
 
 		List<Integer> list = new ArrayList<>();
 

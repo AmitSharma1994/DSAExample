@@ -1,4 +1,4 @@
-package com.array.question.lc;
+package com.array.question.slidingwindow;
 //https://leetcode.com/problems/maximum-average-subarray-i/description/
 
 public class MaximumAverageSubarrayI {
