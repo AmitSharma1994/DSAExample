@@ -10,7 +10,7 @@ public class MatrixDiagonalSum {
 	              {1,1,1,1},
 	              {1,1,1,1},
 	              {1,1,1,1}};
-	            		  System.out.println(diagonalSum(mat));
+	          System.out.println(diagonalSum(mat));
 	}
 
 	
