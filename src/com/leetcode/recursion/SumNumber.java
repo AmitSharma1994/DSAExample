@@ -5,13 +5,10 @@ public class SumNumber {
 		//for best case;
 		if(n==1) {
 			return 1;
-			
 		}
 		else {
 			return n+sumofNumber(n-1);	
 		}
-		
-		
 	}
 
 	public static void main(String[] args) {
