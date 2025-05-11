@@ -7,7 +7,7 @@ import java.util.List;
 public class FindTargetIndicesAfterSortingArray {
 
 	public static void main(String[] args) {
-		
+
 	}
 	
 
