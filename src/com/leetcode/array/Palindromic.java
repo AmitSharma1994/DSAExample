@@ -1,4 +1,4 @@
-package com.array.question;
+package com.leetcode.array;
 
 //Given an array arr[] of positive integers. 
 //Return true if all the array elements are palindrome otherwise, return false.

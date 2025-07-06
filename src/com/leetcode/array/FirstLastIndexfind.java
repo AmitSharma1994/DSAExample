@@ -1,4 +1,4 @@
-package com.array.question;
+package com.leetcode.array;
 /*
 int arr[] = { 1, 2, 2, 2, 2, 3, 4, 7, 8, 8 ,1};
 

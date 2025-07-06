@@ -1,6 +1,4 @@
-package com.array.question;
-
-import java.util.Arrays;
+package com.leetcode.array;
 
 public class MinimizetheHeights {
 	

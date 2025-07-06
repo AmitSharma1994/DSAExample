@@ -1,4 +1,4 @@
-package com.array.question;
+package com.leetcode.array;
 
 public class MinMaxArray {
 	

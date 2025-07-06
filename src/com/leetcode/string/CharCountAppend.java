@@ -1,4 +1,4 @@
-package com.string.question;
+package com.leetcode.string;
 
 public class CharCountAppend {
 
